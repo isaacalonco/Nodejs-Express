@@ -1,0 +1,12 @@
+{
+  "name": "feedbacks-app",
+  "version": "1.0.0",
+  "description": "Aplicação simples de coleta de feedbacks de alunos (Express.js, dados em memória)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
